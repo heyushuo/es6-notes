@@ -1,4 +1,4 @@
-# es6-notes
+# 一、es6常用笔记
 
 ### 代码在doc下html的script标签内
 + 1、let：let的使用
